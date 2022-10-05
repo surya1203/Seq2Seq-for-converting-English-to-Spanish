@@ -1,4 +1,4 @@
-# Seq2Seq-for-converting-English-to-Spanish
+# Seq2Seq Model for converting English to Spanish
 Situation: 
 Online search is now the go-to approach for people to access information. Thus, more and more companies are realizing the value of integrating NLP search capabilities into their software with each passing day. 
 
